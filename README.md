@@ -1,1 +1,3 @@
-# TP-tp1-modele-blog
+# TP-MVC
+
+Site web avec PHP et Mysq
